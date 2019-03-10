@@ -1,0 +1,7 @@
+'''Konark is a medium town in the Puri district in the state of Odisha, India.
+It lies on the coast by the Bay of Bengal, 60 kilometers from the capital of the 
+state, Bhubaneswar. It is the site of the 7th-century Sun Temple, also known 
+as the Black Pagoda, built in black granite during the reign of Narasimhadeva-I. 
+The temple is a World Heritage Site. The temple is now mostly in ruins, and 
+a collection of its sculptures is housed in the Sun Temple Museum, which is 
+run by the Archaeological Survey of India.'''

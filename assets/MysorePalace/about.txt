@@ -1,0 +1,6 @@
+'''Mysore Palace is a historical palace and a royal residence at Mysore
+in the Indian State of Karnataka. It is the official residence of the Wadiyar 
+dynasty and the seat of the Kingdom of Mysore. The palace is in the 
+centre of Mysore, and faces the Chamundi Hills eastward. Mysore is 
+commonly described as the 'City of Palaces', and there are seven palaces including 
+this one; however, 'Mysore Palace' refers specifically to this one within the Old Fort'''

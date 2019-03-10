@@ -1,0 +1,15 @@
+'''The Indian Museum in Kolkata, also referred to as the Imperial Museum at Calcutta
+in British India era texts, is the largest and oldest museum in India and has rare 
+collections of antiques, armour and ornaments, fossils, skeletons, mummies, and 
+Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata (Calcutta), 
+India, in 1814 C.E. The founder curator was Nathaniel Wallich, a Danish botanist. 
+It has six sections comprising thirty five galleries of cultural and scientific artifacts 
+namely Art, Archaeology, Anthropology, Geology, Zoology and Economic Botany. Many 
+rare and unique specimens, both Indian and trans-Indian, relating to humanities and 
+natural sciences, are preserved and displayed in the galleries of these sections. the 
+administrative control of the Cultural sections, viz. Art, and that of the three other 
+science sections is with the geological survey of India, the zoological survey of India 
+and the Botanical survey of India. This multipurpose Institution with multidisciplinary 
+activities is being included as an Institute of national importance in the seventh 
+schedule of the Constitution of India. It is one of oldest museums in the world. 
+This is an autonomous organization under Ministry of Culture, Government of India.'''

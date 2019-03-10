@@ -1,0 +1,8 @@
+'''The National Library of India on the Belvedere Estate in Alipore, Kolkata,
+ is the largest library in India by volume, 14th in the list of largest libraries, 
+and India's library of public record. It is under the Ministry of Culture, 
+Government of India. The library is designated to collect, disseminate and 
+preserve printed material produced in India. The library is situated on the 
+scenic 30-acre (12 ha) Belvedere Estate. It is the largest in India with a 
+collection in excess of 2.2 million books. Before independence, it was the 
+official residence of Lt. Governor of Bengal.'''

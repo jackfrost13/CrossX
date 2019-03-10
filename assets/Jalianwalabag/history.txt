@@ -1,0 +1,13 @@
+'''The Jallianwala Bagh massacre, also known as the Amritsar massacre, took place
+on 13 April 1919 when troops of the British Indian Army under the 
+command of Colonel Reginald Dyer fired rifles into a crowd of Punjabis, 
+who had gathered in Jallianwala Bagh, Amritsar, Punjab. The Rowlatt Act, 
+1919 had been implemented, but the civilians were not informed. The 
+civilians had assembled for a festival known as Baisakhi. Baisakhi marks 
+the Sikh new year and commemorates the formation of Khalsa panth of 
+warriors under Guru Gobind Singh in 1699. It is additionally a spring harvest 
+festival for the Sikhs. It is also stated that it marks peaceful protest to 
+condemn the arrest and deportation of two national leaders, Satya Pal and 
+Saifuddin Kitchlew. Raja Ram has argued, however, that the Proclamation 
+was ineffective, the crowd formed in deliberate defiance and 
+the event signals a beginning of Indian nationalism.'''

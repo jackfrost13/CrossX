@@ -1,0 +1,7 @@
+'''The Indian Museum originated from the Asiatic Society of Bengal
+which was created by Sir William Jones in 1784. The concept of having 
+a museum arose in 1796 from members of the Asiatic Society as a 
+place where man-made and natural objects could be collected, cared for 
+and displayed. The objective began to look achievable in 1808 when the 
+Society was offered suitable accommodation by the Government of India 
+in the Chowringhee-Park Street area.'''
